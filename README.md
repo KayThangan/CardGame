@@ -42,12 +42,11 @@ Open the text files for each deck & player to see the program's gameplay.
 * Java
 
 ## Contributing
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
+* [Kay Thangan](https://github.com/KayThangan)
 
 ## Authors
-* **690064952**
-* **690029129**
+* [Kay Thangan](https://github.com/KayThangan)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
