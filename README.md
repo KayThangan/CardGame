@@ -26,7 +26,7 @@ The text files will be created in the same filepath as the jar file.
 ## Running the Junit Test
 Running the test class
 ```
-cd CardGame/CardTest/src/
+cd CardGame/src/
 ```
 ```
 javac -cp .:lib/*  com/cards/fourofakind/test/CardTest.java 
